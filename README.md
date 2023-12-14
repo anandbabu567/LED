@@ -1,2 +1,2 @@
 # LED
-Configuration the LPC2129 Uc 
+Configuration the LED's using the LPC21xx Uc
